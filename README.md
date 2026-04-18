@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=false&width=700&lines=THIAGO+EMMANUELL;Security+Researcher+%7C+Bug+Hunter;Intigriti+%7C+HackerOne+%7C+Bugcrowd;%24+whoami" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=THIAGO+EMMANUELL;Security+Researcher+%7C+Bug+Hunter;Intigriti+%7C+HackerOne+%7C+Bugcrowd;%24+whoami)](https://git.io/typing-svg)
 
 <br/>
 
